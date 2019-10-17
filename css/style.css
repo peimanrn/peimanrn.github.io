@@ -652,10 +652,12 @@ body:after {
       color: #fff;
       text-align: center; }
   .service .service-about *:last-child {
+    direction: rtl;
     text-align: right;
     margin-bottom: 0; }
   .service .service-about h3 {
     text-align: right;
+    direction: rtl;
     font-size: 1.2rem;
     margin-bottom: 10px; }
 
